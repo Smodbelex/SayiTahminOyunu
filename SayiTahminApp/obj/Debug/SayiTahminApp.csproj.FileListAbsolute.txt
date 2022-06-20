@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Yeni klasör\EmoP2\SayiTahminApp\SayiTahminApp\bin\Debug\SayiTahminApp.exe.config
+C:\Users\Admin\Desktop\Yeni klasör\EmoP2\SayiTahminApp\SayiTahminApp\bin\Debug\SayiTahminApp.exe
+C:\Users\Admin\Desktop\Yeni klasör\EmoP2\SayiTahminApp\SayiTahminApp\bin\Debug\SayiTahminApp.pdb
+C:\Users\Admin\Desktop\Yeni klasör\EmoP2\SayiTahminApp\SayiTahminApp\obj\Debug\SayiTahminApp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Yeni klasör\EmoP2\SayiTahminApp\SayiTahminApp\obj\Debug\SayiTahminApp.Form1.resources
+C:\Users\Admin\Desktop\Yeni klasör\EmoP2\SayiTahminApp\SayiTahminApp\obj\Debug\SayiTahminApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\Yeni klasör\EmoP2\SayiTahminApp\SayiTahminApp\obj\Debug\SayiTahminApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Yeni klasör\EmoP2\SayiTahminApp\SayiTahminApp\obj\Debug\SayiTahminApp.exe
+C:\Users\Admin\Desktop\Yeni klasör\EmoP2\SayiTahminApp\SayiTahminApp\obj\Debug\SayiTahminApp.pdb
